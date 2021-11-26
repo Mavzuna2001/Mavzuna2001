@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, robotics and fine arts.
 - 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on inetersting everything.
-- 📫 How to reach me mavzun20@mail.ru and vasiyashams@gmail.com
+- 📫 How to reach me mavzun20@mail.ru and mavzunaa.bakhriddinova@gmail.com
 
 <!---
 Mavzuna2001/Mavzuna2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
